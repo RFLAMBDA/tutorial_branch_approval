@@ -63,7 +63,7 @@ Now your are ready to merge!! You will perform a *pull* action on the main branc
 
 You will see the following screen printed
 
-![image](./imgs/main_pull_branch.png)
+[picture]
 
 Now you are good to go! Go ahead to make the commit and upload by add, commit and push!
 
