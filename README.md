@@ -76,6 +76,8 @@ Ask your assigned person to approve your code! (The arrow means that you need to
 
 ![image](./imgs/approval_list.png)
 
+**The visualized tutorial is at the end of the page under "Pull Code from Github Repository page.pdf"**
+
 We can also trace your approval history and comments to make sure all the tasks are done properly
 
 
