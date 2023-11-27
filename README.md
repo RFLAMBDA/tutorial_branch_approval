@@ -34,11 +34,11 @@ Second, upload the code piece to your own branch following the add, commit and p
 
     git add *
     git commit -am "updated by [NAME]"
-    git push -upstream origin [NAME]
+    git push --set-upstream origin [NAME]
 
 Finally, you should see this following text printed out on your terminal
 
-[picture]
+![image](./imgs/code_upload_after_push.png)
 
 
 ## Task 3: Merge branch && Approve others
@@ -69,7 +69,7 @@ Now you are good to go! Go ahead to make the commit and upload by add, commit an
 
     git add *
     git commit -am "merged by [NAME]"
-    git push -upstream origin main
+    git push --set-upstream origin main
 
 You should now see the following print outs. It means you are ready to get approved!
 
