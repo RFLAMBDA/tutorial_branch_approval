@@ -5,5 +5,5 @@ int main (){
     printf("Complted list: \ndarlene\n");
     //TODO: Add your code after this line
     //example: printf("[NAME]\n");
-    printf("danlin\n");
+    printf("danlin \n");
 }
