@@ -19,13 +19,13 @@ Using following command again to double check if your branch is now changed to t
 
     git branch -v
 
-You should see something like this (example name: darlene)
+You should see something like this (example [NAME]: darlene)
 
 ![image](./imgs/new_branch_init.png)
 
 ## Task 2: Make the change on code
 
-Now your are ready to make some changes on your code
+Now you are ready to make some changes on your code
 
 First, make the designated change on your code following the instruction in *code.c*
 
@@ -42,7 +42,7 @@ Finally, you should see this following text printed out on your terminal
 ![image](./imgs/code_upload_after_push.png)
 
 
-## Task 3: Merge branch && Approve others
+## Task 3: Merge branch
 
 Now your branch is all updated, you are ready to make a final update to main branch!
 
@@ -56,7 +56,7 @@ Then, make sure you are actually back by using
 
 ![image](./imgs/main_branch_after.png)
 
-Note: Try to do a simple *git pull* action now to make sure that your local main branch is still updated. If your local main branch is no longer the updated version, your following action will **FAIL** or getting very comlicated!!!!
+Note: Try to do a simple *git pull* action now to make sure that your local main branch is still updated. If your local main branch is no longer the updated version, your following action will **FAIL** or getting very complicated!!!!
 
 Now your are ready to merge!! You will perform a *pull* action on the main branch to your [NAME] branch
 
@@ -72,9 +72,14 @@ You should now see the following print outs. It means you are ready to get someo
 
 ![image](./imgs/push_need_approval.png)
 
-Ask your assigned person to approve your code! [TODO: Assign link] DON'T CHEAT! We can trace your approval history and comments by the commits history below
+Ask your assigned person to approve your code! (The arrow means that you need to find the targeted person to ask for approval)
 
-[TODO: picture]
+![image](./imgs/approval_list.png)
+
+We can also trace your approval history and comments to make sure all the tasks are done properly
+
+
+## Task 4: Approve others
 
 Don't forget to approve other people's code as well! Just click the button and write your comments. Your will need to approve **AT LEAST ONE** person in this team.
 
