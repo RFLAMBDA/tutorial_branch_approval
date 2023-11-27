@@ -1,4 +1,4 @@
-# tutorial_unit_testing
+# tutorial_branch_approval
 
 ## Task 1: Make your own branch
 For this task, you will learn to make your own branch!
