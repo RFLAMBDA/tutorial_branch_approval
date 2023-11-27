@@ -53,15 +53,17 @@ Then, make sure you are actually back by using
 
     git branch -v
 
+![image](./imgs/main_branch_after.png)
+
 Note: Try to do a *pull* action now to make sure that your local main branch is still updated. If your local main branch is no longer the updated version, your following action will **FAIL** or getting very comlicated!!!!
 
 Now your are ready to merge!! You will perform a *pull* action on the main branch to your [NAME] branch
 
 You will see the following screen printed
 
-[picture]
+![image](./imgs/main_pull_branch.png)
 
-You will resolve all the conflicts by preserve all the edits and delete the marks like the following
+You will resolve all the conflicts by preserving all the edits and delete the marks like the following
 
 [picture]
 
