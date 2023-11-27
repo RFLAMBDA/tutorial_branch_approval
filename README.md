@@ -65,15 +65,11 @@ You will see the following screen printed
 
 ![image](./imgs/main_pull_branch.png)
 
-You will resolve all the conflicts by preserving all the edits and delete the marks like the following
-
-[picture]
-
 Now you are good to go! Go ahead to make the commit and upload by add, commit and push!
 
     git add *
     git commit -am "merged by [NAME]"
-    git push --set-upstream origin main
+    git push
 
 You should now see the following print outs. It means you are ready to get approved!
 
@@ -84,3 +80,4 @@ Ask your assigned person to approve your code![link] DON'T CHEAT! We can trace y
 [picture]
 
 Don't forget to approve other people's code as well! Just click the button and write your comments. Your will need to approve **AT LEAST ONE** person in this team.
+
