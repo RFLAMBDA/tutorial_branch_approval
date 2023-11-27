@@ -61,17 +61,7 @@ Now your are ready to merge!! You will perform a *pull* action on the main branc
 
     git pull origin [NAME]
 
-You will see the following screen printed
-
-[picture]
-
-Now you are good to go! Go ahead to make the commit and upload by add, commit and push!
-
-    git add *
-    git commit -am "merged by [NAME]"
-    git push
-
-You should now see the following print outs. It means you are ready to get approved!
+You should now see the following print outs. It means you are ready to get someone to approve!
 
 [picture]
 
