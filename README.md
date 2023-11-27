@@ -28,7 +28,7 @@ Now your are ready to make you changes on your code
 
 First, make the designated change on your code following the instruction in *code.c*
 
-[code picture]
+![image](./imgs/code_piece.png)
 
 Second, upload the code piece to your own branch following the add, commit and push sequence that we learnt before
 
