@@ -55,9 +55,11 @@ Then, make sure you are actually back by using
 
 ![image](./imgs/main_branch_after.png)
 
-Note: Try to do a *pull* action now to make sure that your local main branch is still updated. If your local main branch is no longer the updated version, your following action will **FAIL** or getting very comlicated!!!!
+Note: Try to do a simple *git pull* action now to make sure that your local main branch is still updated. If your local main branch is no longer the updated version, your following action will **FAIL** or getting very comlicated!!!!
 
 Now your are ready to merge!! You will perform a *pull* action on the main branch to your [NAME] branch
+
+    git pull origin [NAME]
 
 You will see the following screen printed
 
