@@ -1,6 +1,7 @@
 # tutorial_unit_testing
 
 ## Task 1: Make your own branch
+For this task, you will learn to make your own branch!
 
 To check what branches you have 
 
@@ -24,7 +25,7 @@ You should see something like this (example name: darlene)
 
 ## Task 2: Make the change on code
 
-Now your are ready to make you changes on your code
+Now your are ready to make some changes on your code
 
 First, make the designated change on your code following the instruction in *code.c*
 
@@ -61,23 +62,19 @@ Now your are ready to merge!! You will perform a *pull* action on the main branc
 
     git pull origin [NAME]
 
-You will see the following screen printed
-
-![image](./imgs/main_pull_branch.png)
-
-Now you are good to go! Go ahead to make the commit and upload by add, commit and push!
+If there is no conflicts that needs to be resolved, you are good to go! Go ahead and make the commit and upload by add, commit and push!
 
     git add *
     git commit -am "merged by [NAME]"
     git push
 
-You should now see the following print outs. It means you are ready to get approved!
+You should now see the following print outs. It means you are ready to get someone to approve!
 
-[picture]
+![image](./imgs/push_need_approval.png)
 
-Ask your assigned person to approve your code![link] DON'T CHEAT! We can trace your approval history and comments by the commits history below
+Ask your assigned person to approve your code! [TODO: Assign link] DON'T CHEAT! We can trace your approval history and comments by the commits history below
 
-[picture]
+[TODO: picture]
 
 Don't forget to approve other people's code as well! Just click the button and write your comments. Your will need to approve **AT LEAST ONE** person in this team.
 
